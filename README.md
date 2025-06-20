@@ -14,3 +14,7 @@
 
 ## TASK IS AI BASED RECOMMENDATION SYSTEM , VS CODE IS USED
 
+# INPUT
+
+![Image](https://github.com/user-attachments/assets/0011ed67-e965-4750-852e-0aeba92584be)
+
